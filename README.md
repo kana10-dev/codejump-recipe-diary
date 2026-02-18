@@ -1,11 +1,12 @@
 # Recipe Diary - 模写コーディング
 
-日々の料理レシピをまとめた、シンプルで清潔感のあるレシピサイトの模写プロジェクトです。
+codejumpの模写練習４つ目です。
+https://code-jump.com/recipe-menu/
 
 ## 🚀 制作ステータス
 - **制作時間**: 約1時間（目標達成）
 - **対応範囲**: コーディング（HTML/CSS）、レスポンシブ対応
-- **デプロイ**: GitHub Pages（予定）
+- **デプロイ**: [GitHub Pages](https://kana10-dev.github.io/codejump-recipe-diary/)
 
 ## 🛠 習得・活用テクニック
 今回の制作で特に意識した、または新しく習得した技術のまとめです。
